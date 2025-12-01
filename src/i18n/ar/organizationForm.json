@@ -1,0 +1,55 @@
+{
+  "organizationFormTitle": "المؤسسة",
+  "organizationFormSubtitle": "إدارة المؤسسة أدناه.",
+  "sectorsTable": {
+    "tableTitle": "القطاعات",
+    "tableSearchPlaceholder": "ابحث في القطاعات...",
+    "tableAddButton": "إضافة قطاع جديد",
+    "tableFields": {
+      "englishName": "الاسم باللغة الإنجليزية",
+      "arabicName": "الاسم باللغة العربية",
+      "description": "الوصف",
+      "sectorManager": "مدير القطاع",
+      "actions": "الإجراءات"
+    },
+    "tableFieldsPlaceholders": {
+      "englishName": "أدخل الاسم باللغة الإنجليزية",
+      "arabicName": "أدخل الاسم باللغة العربية",
+      "description": "أدخل الوصف",
+      "selectSectorManager": "اختر مدير القطاع"
+    },
+    "tableValidation": {
+      "englishNameRequired": "الاسم باللغة الإنجليزية مطلوب",
+      "arabicNameRequired": "الاسم باللغة العربية مطلوب",
+      "descriptionRequired": "الوصف مطلوب",
+      "sectorManagerRequired": "مدير القطاع مطلوب"
+    }
+  },
+  "departmentsTable": {
+    "tableTitle": "الأقسام",
+    "tableSearchPlaceholder": "ابحث في الأقسام...",
+    "tableAddButton": "إضافة قسم جديد",
+    "tableFields": {
+      "englishName": "الاسم باللغة الإنجليزية",
+      "arabicName": "الاسم باللغة العربية",
+      "description": "الوصف",
+      "departmentManager": "مدير القسم",
+      "sector": "القطاع",
+      "actions": "الإجراءات"
+    },
+    "tableFieldsPlaceholders": {
+      "englishName": "أدخل الاسم باللغة الإنجليزية",
+      "arabicName": "أدخل الاسم باللغة العربية",
+      "description": "أدخل الوصف",
+      "selectDepartmentManager": "اختر مدير القسم",
+      "selectSector": "اختر القطاع"
+    },
+    "tableValidation": {
+      "englishNameRequired": "الاسم باللغة الإنجليزية مطلوب",
+      "arabicNameRequired": "الاسم باللغة العربية مطلوب",
+      "descriptionRequired": "الوصف مطلوب",
+      "departmentManagerRequired": "مدير القسم مطلوب",
+      "sectorRequired": "القطاع مطلوب"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "deliverablesStatusesFormTitle": "Deliverables Statuses",
+  "deliverablesStatusesFormSubtitle": "Manage your deliverables statuses below.",
+  "deliverablesStatusesTable": {
+    "tableTitle": "Deliverables Statuses",
+    "tableSearchPlaceholder": "Search deliverables statuses...",
+    "tableAddButton": "Add New Status",
+    "tableFields": {
+      "englishName": "English Name",
+      "arabicName": "Arabic Name",
+      "description": "Description",
+      "color": "Color",
+      "actions": "Actions"
+    },
+    "tableFieldsPlaceholders": {
+      "englishName": "Enter English name",
+      "arabicName": "Enter Arabic name",
+      "description": "Enter description"
+    },
+    "tableValidation": {
+      "englishNameRequired": "English name is required",
+      "arabicNameRequired": "Arabic name is required",
+      "descriptionRequired": "Description is required",
+      "colorRequired": "Color is required"
+    }
+  }
+}

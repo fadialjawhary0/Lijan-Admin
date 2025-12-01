@@ -1,0 +1,27 @@
+{
+  "deliverablesStatusesFormTitle": "حالات المخرجات",
+  "deliverablesStatusesFormSubtitle": "إدارة حالات المخرجات الخاصة بك أدناه.",
+  "deliverablesStatusesTable": {
+    "tableTitle": "حالات المخرجات",
+    "tableSearchPlaceholder": "ابحث عن حالات المخرجات...",
+    "tableAddButton": "إضافة حالة جديدة",
+    "tableFields": {
+      "englishName": "الاسم باللغة الإنجليزية",
+      "arabicName": "الاسم باللغة العربية",
+      "description": "الوصف",
+      "color": "اللون",
+      "actions": "الإجراءات"
+    },
+    "tableFieldsPlaceholders": {
+      "englishName": "أدخل الاسم باللغة الإنجليزية",
+      "arabicName": "أدخل الاسم باللغة العربية",
+      "description": "أدخل الوصف"
+    },
+    "tableValidation": {
+      "englishNameRequired": "الاسم باللغة الإنجليزية مطلوب",
+      "arabicNameRequired": "الاسم باللغة العربية مطلوب",
+      "descriptionRequired": "الوصف مطلوب",
+      "colorRequired": "اللون مطلوب"
+    }
+  }
+}

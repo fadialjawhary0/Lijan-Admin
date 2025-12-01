@@ -1,0 +1,27 @@
+{
+  "budgetStatusesFormTitle": "Budget Statuses",
+  "budgetStatusesFormSubtitle": "Manage your budget statuses below.",
+  "budgetStatusesTable": {
+    "tableTitle": "Budget Statuses",
+    "tableSearchPlaceholder": "Search budget statuses...",
+    "tableAddButton": "Add New Status",
+    "tableFields": {
+      "englishName": "English Name",
+      "arabicName": "Arabic Name",
+      "description": "Description",
+      "color": "Color",
+      "actions": "Actions"
+    },
+    "tableFieldsPlaceholders": {
+      "englishName": "Enter English name",
+      "arabicName": "Enter Arabic name",
+      "description": "Enter description"
+    },
+    "tableValidation": {
+      "englishNameRequired": "English name is required",
+      "arabicNameRequired": "Arabic name is required",
+      "descriptionRequired": "Description is required",
+      "colorRequired": "Color is required"
+    }
+  }
+}

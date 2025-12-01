@@ -1,0 +1,29 @@
+{
+  "strategiesFormTitle": "إدارة الاستراتيجيات",
+  "strategiesFormSubtitle": "إدارة الاستراتيجيات الخاصة بك أدناه.",
+  "strategiesFormSearchPlaceholder": "ابحث عن استراتيجية...",
+  "strategiesFormAddButton": "إضافة استراتيجية جديدة",
+  "strategiesFormFields": {
+    "name": "الاسم",
+    "vision": "الرؤية",
+    "mission": "المهمة",
+    "duration": "المدة",
+    "actions": "الإجراءات"
+  },
+  "strategiesFormFieldsPlaceholders": {
+    "name": "أدخل الاسم",
+    "vision": "أدخل الرؤية",
+    "mission": "أدخل المهمة",
+    "startYear": "أدخل السنة البداية",
+    "endYear": "أدخل السنة النهاية"
+  },
+  "strategiesFormValidation": {
+    "startYearRequired": "السنة البداية مطلوبة",
+    "startYearMin": "السنة البداية لا يمكن أن تكون في الماضي",
+    "endYearRequired": "السنة النهاية مطلوبة",
+    "endYearMin": "السنة النهاية لا يمكن أن تكون في الماضي",
+    "nameRequired": "الاسم مطلوب",
+    "visionRequired": "الرؤية مطلوبة",
+    "missionRequired": "المهمة مطلوبة"
+  }
+}

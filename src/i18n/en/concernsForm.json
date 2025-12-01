@@ -1,0 +1,128 @@
+{
+  "concernKindsFormTitle": "Concern Kinds",
+  "concernKindsFormSubtitle": "Manage your concern kinds below.",
+  "concernKindsTable": {
+    "tableTitle": "Concern Kinds",
+    "tableSearchPlaceholder": "Search concern kinds...",
+    "tableAddButton": "Add New Concern Kind",
+    "tableFields": {
+      "englishName": "English Name",
+      "arabicName": "Arabic Name",
+      "description": "Description",
+      "color": "Color",
+      "actions": "Actions"
+    },
+    "tableFieldsPlaceholders": {
+      "englishName": "Enter English name",
+      "arabicName": "Enter Arabic name",
+      "description": "Enter description"
+    },
+    "tableValidation": {
+      "englishNameRequired": "English name is required",
+      "arabicNameRequired": "Arabic name is required",
+      "descriptionRequired": "Description is required",
+      "colorRequired": "Color is required"
+    }
+  },
+  "concernCategoriesTable": {
+    "tableTitle": "Concern Categories",
+    "tableSearchPlaceholder": "Search concern categories...",
+    "tableAddButton": "Add New Concern Category",
+    "tableFields": {
+      "englishName": "English Name",
+      "arabicName": "Arabic Name",
+      "description": "Description",
+      "concernKind": "Concern Kind",
+      "color": "Color",
+      "actions": "Actions"
+    },
+    "tableFieldsPlaceholders": {
+      "englishName": "Enter English name",
+      "arabicName": "Enter Arabic name",
+      "description": "Enter description",
+      "selectConcernKind": "Select Concern Kind"
+    },
+    "tableValidation": {
+      "englishNameRequired": "English name is required",
+      "arabicNameRequired": "Arabic name is required",
+      "descriptionRequired": "Description is required",
+      "colorRequired": "Color is required",
+      "concernKindRequired": "Concern kind is required"
+    }
+  },
+  "concernSourceTable": {
+    "tableTitle": "Concern Sources",
+    "tableSearchPlaceholder": "Search concern sources...",
+    "tableAddButton": "Add New Concern Source",
+    "tableFields": {
+      "englishName": "English Name",
+      "arabicName": "Arabic Name",
+      "description": "Description",
+      "color": "Color",
+      "actions": "Actions"
+    },
+    "tableFieldsPlaceholders": {
+      "englishName": "Enter English name",
+      "arabicName": "Enter Arabic name",
+      "description": "Enter description"
+    },
+    "tableValidation": {
+      "englishNameRequired": "English name is required",
+      "arabicNameRequired": "Arabic name is required",
+      "descriptionRequired": "Description is required",
+      "colorRequired": "Color is required"
+    }
+  },
+  "concernTypesTable": {
+    "tableTitle": "Concern Types",
+    "tableSearchPlaceholder": "Search concern types...",
+    "tableAddButton": "Add New Concern Type",
+    "tableFields": {
+      "englishName": "English Name",
+      "arabicName": "Arabic Name",
+      "description": "Description",
+      "concernKind": "Concern Kind",
+      "color": "Color",
+      "actions": "Actions"
+    },
+    "tableFieldsPlaceholders": {
+      "englishName": "Enter English name",
+      "arabicName": "Enter Arabic name",
+      "description": "Enter description",
+      "selectConcernKind": "Select Concern Kind"
+    },
+    "tableValidation": {
+      "englishNameRequired": "English name is required",
+      "arabicNameRequired": "Arabic name is required",
+      "descriptionRequired": "Description is required",
+      "colorRequired": "Color is required",
+      "concernKindRequired": "Concern kind is required"
+    }
+  },
+  "concernStatusesTable": {
+    "tableTitle": "Concern Statuses",
+    "tableSearchPlaceholder": "Search concern statuses...",
+    "tableAddButton": "Add New Concern Status",
+    "tableFields": {
+      "englishName": "English Name",
+      "arabicName": "Arabic Name",
+      "description": "Description",
+      "concernKind": "Concern Kind",
+      "color": "Color",
+      "actions": "Actions"
+    },
+    "tableFieldsPlaceholders": {
+      "englishName": "Enter English name",
+      "arabicName": "Enter Arabic name",
+      "description": "Enter description",
+      "selectConcernKind": "Select Concern Kind"
+    },
+    "tableValidation": {
+      "englishNameRequired": "English name is required",
+      "arabicNameRequired": "Arabic name is required",
+      "descriptionRequired": "Description is required",
+      "colorRequired": "Color is required",
+      "concernKindRequired": "Concern kind is required"
+    }
+  }
+}

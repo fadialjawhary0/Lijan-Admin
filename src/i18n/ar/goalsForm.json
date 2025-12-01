@@ -1,0 +1,50 @@
+{
+  "goalsFormTitle": "إدارة الأهداف",
+  "goalsFormSubtitle": "إدارة الأهداف الخاصة بك أدناه.",
+  "goalTypesTable": {
+    "tableTitle": "أنواع الأهداف",
+    "tableSearchPlaceholder": "ابحث عن أنواع الأهداف...",
+    "tableAddButton": "إضافة نوع أهداف جديد",
+    "tableFields": {
+      "englishName": "الاسم باللغة الإنجليزية",
+      "arabicName": "الاسم باللغة العربية",
+      "description": "الوصف",
+      "color": "اللون",
+      "actions": "الإجراءات"
+    },
+    "tableFieldsPlaceholders": {
+      "englishName": "أدخل الاسم باللغة الإنجليزية",
+      "arabicName": "أدخل الاسم باللغة العربية",
+      "description": "أدخل الوصف"
+    },
+    "tableValidation": {
+      "englishNameRequired": "الاسم باللغة الإنجليزية مطلوب",
+      "arabicNameRequired": "الاسم باللغة العربية مطلوب",
+      "descriptionRequired": "الوصف مطلوب",
+      "colorRequired": "اللون مطلوب"
+    }
+  },
+  "goalStatusesTable": {
+    "tableTitle": "حالات الأهداف",
+    "tableSearchPlaceholder": "ابحث عن حالات الأهداف...",
+    "tableAddButton": "إضافة حالة أهداف جديدة",
+    "tableFields": {
+      "englishName": "الاسم باللغة الإنجليزية",
+      "arabicName": "الاسم باللغة العربية",
+      "description": "الوصف",
+      "color": "اللون",
+      "actions": "الإجراءات"
+    },
+    "tableFieldsPlaceholders": {
+      "englishName": "أدخل الاسم باللغة الإنجليزية",
+      "arabicName": "أدخل الاسم باللغة العربية",
+      "description": "أدخل الوصف"
+    },
+    "tableValidation": {
+      "englishNameRequired": "الاسم باللغة الإنجليزية مطلوب",
+      "arabicNameRequired": "الاسم باللغة العربية مطلوب",
+      "descriptionRequired": "الوصف مطلوب",
+      "colorRequired": "اللون مطلوب"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "organizationFormTitle": "Organization",
+  "organizationFormSubtitle": "Manage your organization below.",
+  "sectorsTable": {
+    "tableTitle": "Sectors",
+    "tableSearchPlaceholder": "Search sectors...",
+    "tableAddButton": "Add New Sector",
+    "tableFields": {
+      "englishName": "English Name",
+      "arabicName": "Arabic Name",
+      "description": "Description",
+      "sectorManager": "Sector Manager",
+      "actions": "Actions"
+    },
+    "tableFieldsPlaceholders": {
+      "englishName": "Enter English name",
+      "arabicName": "Enter Arabic name",
+      "description": "Enter description",
+      "selectSectorManager": "Select Sector Manager"
+    },
+    "tableValidation": {
+      "englishNameRequired": "English name is required",
+      "arabicNameRequired": "Arabic name is required",
+      "descriptionRequired": "Description is required",
+      "sectorManagerRequired": "Sector manager is required"
+    }
+  },
+  "departmentsTable": {
+    "tableTitle": "Departments",
+    "tableSearchPlaceholder": "Search departments...",
+    "tableAddButton": "Add New Department",
+    "tableFields": {
+      "englishName": "English Name",
+      "arabicName": "Arabic Name",
+      "description": "Description",
+      "departmentManager": "Department Manager",
+      "sector": "Sector",
+      "actions": "Actions"
+    },
+    "tableFieldsPlaceholders": {
+      "englishName": "Enter English name",
+      "arabicName": "Enter Arabic name",
+      "description": "Enter description",
+      "selectDepartmentManager": "Select Department Manager",
+      "selectSector": "Select Sector"
+    },
+    "tableValidation": {
+      "englishNameRequired": "English name is required",
+      "arabicNameRequired": "Arabic name is required",
+      "descriptionRequired": "Description is required",
+      "departmentManagerRequired": "Department manager is required",
+      "sectorRequired": "Sector is required"
+    }
+  }
+}
