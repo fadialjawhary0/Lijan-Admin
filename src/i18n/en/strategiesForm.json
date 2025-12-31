@@ -1,0 +1,29 @@
+{
+  "strategiesFormTitle": "Strategies Management",
+  "strategiesFormSubtitle": "Manage your strategies below.",
+  "strategiesFormSearchPlaceholder": "Search strategies...",
+  "strategiesFormAddButton": "Add New Strategy",
+  "strategiesFormFields": {
+    "name": "Name",
+    "vision": "Vision",
+    "mission": "Mission",
+    "duration": "Duration",
+    "actions": "Actions"
+  },
+  "strategiesFormFieldsPlaceholders": {
+    "name": "Enter name",
+    "vision": "Enter vision",
+    "mission": "Enter mission",
+    "startYear": "Start year",
+    "endYear": "End year"
+  },
+  "strategiesFormValidation": {
+    "startYearRequired": "Start year is required",
+    "startYearMin": "Start year cannot be in the past",
+    "endYearRequired": "End year is required",
+    "endYearMin": "End year cannot be in the past",
+    "nameRequired": "Name is required",
+    "visionRequired": "Vision is required",
+    "missionRequired": "Mission is required"
+  }
+}

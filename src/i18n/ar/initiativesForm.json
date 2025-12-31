@@ -1,0 +1,27 @@
+{
+  "initiativesStatusesFormTitle": "حالات المبادرات",
+  "initiativesStatusesFormSubtitle": "إدارة حالات المبادرات الخاصة بك أدناه.",
+  "initiativesStatusesTable": {
+    "tableTitle": "حالات المبادرات",
+    "tableSearchPlaceholder": "ابحث عن حالات المبادرات...",
+    "tableAddButton": "إضافة حالة جديدة",
+    "tableFields": {
+      "englishName": "الاسم باللغة الإنجليزية",
+      "arabicName": "الاسم باللغة العربية",
+      "description": "الوصف",
+      "color": "اللون",
+      "actions": "الإجراءات"
+    },
+    "tableFieldsPlaceholders": {
+      "englishName": "أدخل الاسم باللغة الإنجليزية",
+      "arabicName": "أدخل الاسم باللغة العربية",
+      "description": "أدخل الوصف"
+    },
+    "tableValidation": {
+      "englishNameRequired": "الاسم باللغة الإنجليزية مطلوب",
+      "arabicNameRequired": "الاسم باللغة العربية مطلوب",
+      "descriptionRequired": "الوصف مطلوب",
+      "colorRequired": "اللون مطلوب"
+    }
+  }
+}

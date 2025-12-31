@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap');
+
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: 'Inter', sans-serif;
+
+  --color-primary: #f8485e;
+  --color-primary-rich: #f5253f;
+
+  --color-light: #f1f5f9;
+  --color-dark: #0f172a;
+  --color-muted: #64748b;
+  --color-accent: #6366f1;
+  --color-accent-light: #a5b4fc;
+
+  /* Green shades */
+  --color-green-100: #dcfce7; /* Lightest */
+  --color-green-200: #bbf7d0;
+  --color-green-300: #86efac;
+  --color-green-400: #4ade80;
+  --color-green-500: #22c55e; /* Original success color */
+
+  /* Red shades */
+  --color-red-100: #fee2e2; /* Lightest */
+  --color-red-200: #fecaca;
+  --color-red-300: #fca5a5;
+  --color-red-400: #f87171;
+  --color-red-500: #ef4444; /* Original error color */
+}
+
+@layer base {
+  a,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: var(--color-dark);
+  }
+
+  span {
+    font-size: 12px;
+  }
+
+  a {
+    text-decoration: none;
+  }
+}
+
+.table-admin {
+  @apply min-w-full divide-y divide-gray-200 table-fixed;
+}
+
+.table-header-cell {
+  @apply px-4 py-3 text-xs font-medium text-gray-500 uppercase tracking-wider;
+}
+
+.table-header-cell-left {
+  @apply px-4 py-3 text-xs font-medium text-gray-500 uppercase tracking-wider text-left;
+}
+
+.table-header-cell-right {
+  @apply px-4 py-3 text-xs font-medium text-gray-500 uppercase tracking-wider text-right;
+}
+
+.table-body-cell {
+  @apply px-4 py-3 truncate text-xs md:text-sm;
+}
+
+.table-body-cell-actions {
+  @apply px-4 py-3 text-xs md:text-sm;
+}
+
+.input-admin {
+  @apply w-full px-3 py-2 border rounded-lg focus:outline-none focus:ring-1 focus:ring-primary text-sm min-w-[150px];
+}
+
+.input-admin-error {
+  @apply border-red-500;
+}
+
+.input-admin-default {
+  @apply border-gray-300;
+}
+
+.input-color-admin {
+  @apply w-10 h-10 p-0 border-0 bg-transparent cursor-pointer;
+}
+
+.color-display-admin {
+  @apply w-8 h-8 rounded-full border;
+}
+
+.action-button {
+  @apply p-2 rounded-lg transition-colors cursor-pointer;
+}
+
+.action-button-edit {
+  @apply p-2 text-blue-600 hover:bg-blue-50 rounded-lg transition-colors cursor-pointer;
+}
+
+.action-button-delete {
+  @apply p-2 text-red-600 hover:bg-red-50 rounded-lg transition-colors cursor-pointer;
+}
+
+.action-button-save {
+  @apply p-2 text-green-600 hover:bg-green-50 rounded-lg transition-colors cursor-pointer;
+}
+
+.action-button-cancel {
+  @apply p-2 text-red-600 hover:bg-red-50 rounded-lg transition-colors cursor-pointer;
+}
+
+.search-input-admin {
+  @apply w-full pl-10 pr-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-primary text-sm;
+}
+
+.add-button-admin {
+  @apply flex items-center gap-2 px-3 py-2 bg-primary text-white rounded-lg hover:bg-primary/90 transition-colors cursor-pointer text-sm;
+}
+
+body.ar-font {
+  font-family: 'Rubik', 'Inter', sans-serif !important;
+}
+
+body.ar-font :lang(en) {
+  font-family: 'Inter', sans-serif !important;
+}

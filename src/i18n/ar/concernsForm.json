@@ -1,0 +1,128 @@
+{
+  "concernKindsFormTitle": "إدارة الشواغل",
+  "concernKindsFormSubtitle": "إدارة الشواغل الخاصة بك أدناه.",
+  "concernKindsTable": {
+    "tableTitle": "أنواع الشواغل",
+    "tableSearchPlaceholder": "ابحث عن أنواع الشواغل...",
+    "tableAddButton": "إضافة نوع شواغل جديد",
+    "tableFields": {
+      "englishName": "الاسم باللغة الإنجليزية",
+      "arabicName": "الاسم باللغة العربية",
+      "description": "الوصف",
+      "color": "اللون",
+      "actions": "الإجراءات"
+    },
+    "tableFieldsPlaceholders": {
+      "englishName": "أدخل الاسم باللغة الإنجليزية",
+      "arabicName": "أدخل الاسم باللغة العربية",
+      "description": "أدخل الوصف"
+    },
+    "tableValidation": {
+      "englishNameRequired": "الاسم باللغة الإنجليزية مطلوب",
+      "arabicNameRequired": "الاسم باللغة العربية مطلوب",
+      "descriptionRequired": "الوصف مطلوب",
+      "colorRequired": "اللون مطلوب"
+    }
+  },
+  "concernCategoriesTable": {
+    "tableTitle": "أصناف الشواغل",
+    "tableSearchPlaceholder": "ابحث عن أصناف الشواغل...",
+    "tableAddButton": "إضافة صنف شواغل جديد",
+    "tableFields": {
+      "englishName": "الاسم باللغة الإنجليزية",
+      "arabicName": "الاسم باللغة العربية",
+      "description": "الوصف",
+      "concernKind": "نوع الشواغل",
+      "color": "اللون",
+      "actions": "الإجراءات"
+    },
+    "tableFieldsPlaceholders": {
+      "englishName": "أدخل الاسم باللغة الإنجليزية",
+      "arabicName": "أدخل الاسم باللغة العربية",
+      "description": "أدخل الوصف",
+      "selectConcernKind": "اختر نوع الشواغل"
+    },
+    "tableValidation": {
+      "englishNameRequired": "الاسم باللغة الإنجليزية مطلوب",
+      "arabicNameRequired": "الاسم باللغة العربية مطلوب",
+      "descriptionRequired": "الوصف مطلوب",
+      "colorRequired": "اللون مطلوب",
+      "concernKindRequired": "نوع الشواغل مطلوب"
+    }
+  },
+  "concernSourceTable": {
+    "tableTitle": "مصادر الشواغل",
+    "tableSearchPlaceholder": "ابحث عن مصادر الشواغل...",
+    "tableAddButton": "إضافة مصدر شواغل جديد",
+    "tableFields": {
+      "englishName": "الاسم باللغة الإنجليزية",
+      "arabicName": "الاسم باللغة العربية",
+      "description": "الوصف",
+      "color": "اللون",
+      "actions": "الإجراءات"
+    },
+    "tableFieldsPlaceholders": {
+      "englishName": "أدخل الاسم باللغة الإنجليزية",
+      "arabicName": "أدخل الاسم باللغة العربية",
+      "description": "أدخل الوصف"
+    },
+    "tableValidation": {
+      "englishNameRequired": "الاسم باللغة الإنجليزية مطلوب",
+      "arabicNameRequired": "الاسم باللغة العربية مطلوب",
+      "descriptionRequired": "الوصف مطلوب",
+      "colorRequired": "اللون مطلوب"
+    }
+  },
+  "concernTypesTable": {
+    "tableTitle": "أنواع الشواغل",
+    "tableSearchPlaceholder": "ابحث عن أنواع الشواغل...",
+    "tableAddButton": "إضافة نوع شواغل جديد",
+    "tableFields": {
+      "englishName": "الاسم باللغة الإنجليزية",
+      "arabicName": "الاسم باللغة العربية",
+      "description": "الوصف",
+      "concernKind": "نوع الشواغل",
+      "color": "اللون",
+      "actions": "الإجراءات"
+    },
+    "tableFieldsPlaceholders": {
+      "englishName": "أدخل الاسم باللغة الإنجليزية",
+      "arabicName": "أدخل الاسم باللغة العربية",
+      "description": "أدخل الوصف",
+      "selectConcernKind": "اختر نوع الشواغل"
+    },
+    "tableValidation": {
+      "englishNameRequired": "الاسم باللغة الإنجليزية مطلوب",
+      "arabicNameRequired": "الاسم باللغة العربية مطلوب",
+      "descriptionRequired": "الوصف مطلوب",
+      "colorRequired": "اللون مطلوب",
+      "concernKindRequired": "نوع الشواغل مطلوب"
+    }
+  },
+  "concernStatusesTable": {
+    "tableTitle": "حالات الشواغل",
+    "tableSearchPlaceholder": "ابحث عن حالات الشواغل...",
+    "tableAddButton": "إضافة حالة شواغل جديدة",
+    "tableFields": {
+      "englishName": "الاسم باللغة الإنجليزية",
+      "arabicName": "الاسم باللغة العربية",
+      "description": "الوصف",
+      "concernKind": "نوع الشواغل",
+      "color": "اللون",
+      "actions": "الإجراءات"
+    },
+    "tableFieldsPlaceholders": {
+      "englishName": "أدخل الاسم باللغة الإنجليزية",
+      "arabicName": "أدخل الاسم باللغة العربية",
+      "description": "أدخل الوصف",
+      "selectConcernKind": "اختر نوع الشواغل"
+    },
+    "tableValidation": {
+      "englishNameRequired": "الاسم باللغة الإنجليزية مطلوب",
+      "arabicNameRequired": "الاسم باللغة العربية مطلوب",
+      "descriptionRequired": "الوصف مطلوب",
+      "colorRequired": "اللون مطلوب",
+      "concernKindRequired": "نوع الشواغل مطلوب"
+    }
+  }
+}
